@@ -5,6 +5,8 @@ max-width: 1200px;
 margin: 0 auto;
 padding: 15px}
 
+h2{color: aqua;}
+
 header{display: flex;
         flex-direction: row;
     justify-content: space-between}
